@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def display_board(b)
   puts " #{b[0]} | #{b[1]} | #{b[2]} "
   puts "-----------"
@@ -7,3 +8,13 @@ def display_board(b)
 end
 
  
+=======
+def display_board(board)
+  puts "   |   |   "
+  puts "-----------"
+  puts "   | x |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+  
+>>>>>>> c198c8cdd6f7dcb8d694f4321fb2ba38b288c9f8
